@@ -1,0 +1,9 @@
+# requirements.in（你手写，很少改动）
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langchain-core
+langchain-openai
+python-dotenv
+fastapi
+uvicorn

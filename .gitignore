@@ -1,0 +1,17 @@
+# 环境密钥
+.env
+
+# uv虚拟环境
+.venv/
+my_python_envs/
+
+# 运行生成：向量索引、产物
+runs/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# （可选，如果data里面有大文件，就把下面这行打开）
+# data/
